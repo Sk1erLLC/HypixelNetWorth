@@ -1,22 +1,44 @@
 {
-   "direct": [
-        "stats.Arcade.coins"
-    ],
-    "tiered": {
-        "stats.HungerGames.astronaut": {
-            "offset": 1,
-            "values": [
-                0,
-                80,
-                400,
-                1000,
-                3000,
-                12000,
-                50000,
-                100000,
-                250000,
-                1000000  
-            ]
-        } 
+  "direct": [
+    "stats.Quake.coins",
+    "stats.Walls.coins",
+    "stats.Paintball.coins",
+    "stats.HungerGames.coins",
+    "stats.TNTGames.coins",
+    "stats.VampireZ.coins",
+    "stats.Walls3.coins",
+    "stats.Arcade.coins",
+    "stats.Arena.coins",
+    "stats.MCGO.coins",
+    "stats.UHC.coins",
+    "stats.Battleground.coins",
+    "stats.SuperSmash.coins",
+    "stats.GingerBread.coins",
+    "stats.SkyWars.coins",
+    "stats.TrueCombat.coins",
+    "stats.SkyClash.coins",
+    "stats.Legacy.coins",
+    "stats.SpeedUHC.coins",
+    "stats.Bedwars.coins",
+    "stats.MurderMystery.coins",
+    "stats.BuildBattle.coins",
+    "stats.Duels.coins"
+  ],
+  "tiered": {
+    "stats.HungerGames.astronaut": {
+      "offset": 1,
+      "values": [
+        0,
+        80,
+        400,
+        1000,
+        3000,
+        12000,
+        50000,
+        100000,
+        250000,
+        1000000
+      ]
     }
+  }
 }
