@@ -1,0 +1,22 @@
+{
+   "direct": [
+        "stats.Arcade.coins"
+    ],
+    "tiered": {
+        "stats.HungerGames.astronaut": {
+            "offset": 1,
+            "values": [
+                0,
+                80,
+                400,
+                1000,
+                3000,
+                12000,
+                50000,
+                100000,
+                250000,
+                1000000  
+            ]
+        } 
+    }
+}
